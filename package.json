@@ -20,10 +20,6 @@
   },
   "homepage": "https://github.com/freeCodeCamp/boilerplate-project-headerparser#readme",
   "author": "freeCodeCamp <team@freecodecamp.org>",
-  "keywords": [
-    "freeCodeCamp",
-    "node",
-    "express"
-  ],
+  "keywords": ["freeCodeCamp", "node", "express"],
   "license": "MIT"
 }
