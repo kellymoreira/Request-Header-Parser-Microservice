@@ -1,5 +1,4 @@
-// index.js
-// where your node app starts
+// Where the node app starts
 
 // init project
 require("dotenv").config();
