@@ -1,5 +1,5 @@
 <p align="center">
-<img src="./img/http.png" alt="Clock" width="27%"/>
+<img src="./img/http.png" alt="Clock" width="25%"/>
 </p>
 
 # Request Header Parser Microservice
